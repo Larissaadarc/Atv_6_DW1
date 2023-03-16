@@ -1,0 +1,30 @@
+h2{
+    color: black;
+    font-style: italic;
+}
+
+table{
+
+    padding: 1em 3px 30px 5px;
+    color: rgb(5, 16, 75);
+    font-family: 'Courier New', Courier, monospace;
+    
+    
+}
+td{
+    
+    font-weight: bold;
+    
+}
+
+body{
+    background-color: #FAEBD7;
+    padding: 10%;
+}
+h1{
+    background-color: #A020F0;
+}
+
+a{
+    background-size: auto;
+}
